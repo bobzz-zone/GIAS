@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include gias *.css
+recursive-include gias *.csv
+recursive-include gias *.html
+recursive-include gias *.ico
+recursive-include gias *.js
+recursive-include gias *.json
+recursive-include gias *.md
+recursive-include gias *.png
+recursive-include gias *.py
+recursive-include gias *.svg
+recursive-include gias *.txt
+recursive-exclude gias *.pyc
