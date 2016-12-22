@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Copyright (c) 2015, Ros@gmail.com and contributors
+# Copyright (c) 2015, Bobby and contributors
 # For license information, please see license.txt
 
 from __future__ import unicode_literals
