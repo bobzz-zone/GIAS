@@ -7,7 +7,7 @@ def get_data():
 		{
 			"module_name": "Additional Tools",
 			"color": "pink",
-			"icon": "octicon octicon-toos",
+			"icon": "octicon-toos",
 			"type": "module",
 			"label": _("Additional Tools")
 		}
